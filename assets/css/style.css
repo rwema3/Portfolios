@@ -1,3 +1,12 @@
+a {
+  color: #149ddd;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #37b3ed;
+  text-decoration: none;
+}
 
 h1,
 h2,
